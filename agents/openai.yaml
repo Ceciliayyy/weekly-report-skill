@@ -1,0 +1,4 @@
+interface:
+  display_name: "周报生成"
+  short_description: "将多日日报整理成可直接粘贴到钉钉的结构化工作周报草稿"
+  default_prompt: "使用 $weekly-report 将我下面粘贴的多日日报整理成一份可粘贴到钉钉的工作周报。"
